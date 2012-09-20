@@ -1,1 +1,2 @@
-A Prototype Snap application to interface with mixed language models on different servers.
+A prototype Snap application to interface with mixed language models on different servers using code forked from
+git://github.com/dracule/snap-boiler-plate.
