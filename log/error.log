@@ -6,3 +6,12 @@
 [23/Sep/2012:12:33:57 +0100] Server.httpServe: BACKEND STOPPED
 [23/Sep/2012:12:33:57 +0100] Server.httpServe: SHUTDOWN
 [23/Sep/2012:12:33:57 +0100] Server.httpServe: BACKEND STOPPED
+[26/Sep/2012:20:02:45 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Sep/2012:20:10:43 +0100] Server.httpServe: SHUTDOWN
+[26/Sep/2012:20:10:43 +0100] Server.httpServe: BACKEND STOPPED
+[26/Sep/2012:20:12:31 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8001/]
+[26/Sep/2012:20:12:54 +0100] Server.httpServe: SHUTDOWN
+[26/Sep/2012:20:12:54 +0100] Server.httpServe: BACKEND STOPPED
+[26/Sep/2012:20:26:38 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8001/]
+[26/Sep/2012:20:27:36 +0100] Server.httpServe: SHUTDOWN
+[26/Sep/2012:20:27:36 +0100] Server.httpServe: BACKEND STOPPED
